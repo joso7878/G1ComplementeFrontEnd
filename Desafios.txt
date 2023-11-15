@@ -1,0 +1,6 @@
+Desafio 01: Valendo 1 ponto
+- Criar um botão "Esqueci minha senha" na tela de login
+- Ao clicar, abrir uma página contendo o campo de email e um botão recuperar minha senha
+
+Desafio 01: Valendo 1 ponto
+- Caso o objeto "songs" esteja vazio, exibir que não há musicas cadastradas
